@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="region">
+        <item>한식</item>
+        <item>중식</item>
+        <item>일식</item>
+        <item>양식</item>
+        <item>간식</item>
+        <item>야식, 술안주</item>
+        <item>디저트</item>
+        <item>기타</item>
+    </string-array>
+</resources>

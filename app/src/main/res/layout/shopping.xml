@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_marginVertical="4dp"
+    android:weightSum="10">
+    <CheckBox
+        android:id="@+id/cb_check"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginVertical="8dp"
+        android:background="#FFF5A5"
+        android:checked="false"/>
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="8"
+        android:text="example"
+        android:textSize="24sp"
+        android:gravity="center" />
+
+    <ImageView
+        android:id="@+id/iv_delete"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/icon_remove"/>
+</LinearLayout>

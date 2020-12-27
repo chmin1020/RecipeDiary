@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997991042965",
+    "firebase_url": "https://recipediary-5afd1.firebaseio.com",
+    "project_id": "recipediary-5afd1",
+    "storage_bucket": "recipediary-5afd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997991042965:android:1f221940dd25da0771709c",
+        "android_client_info": {
+          "package_name": "com.FallTurtle.recipediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997991042965-taqjvfliafpii3lrscv0634678k2g3fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FallTurtle.recipediary",
+            "certificate_hash": "da06a37a0f9c8de4259722c2d67409c9f70325f3"
+          }
+        },
+        {
+          "client_id": "997991042965-vtbrg85qg96kmm6kcqmsvsm00ia174od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1XH7-FNu3tlsog21PONbTCN9c888tZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997991042965-vtbrg85qg96kmm6kcqmsvsm00ia174od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
