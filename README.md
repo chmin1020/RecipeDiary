@@ -5,7 +5,7 @@
 <h3>앱 예시 이미지1</h3>
 <p>사용자가 입력한 레시피들이 이러한 리스트 형태로 저장됨</p>
 ![display1](https://user-images.githubusercontent.com/70795841/104844640-c4266280-5914-11eb-83f7-f0548edadcaf.jpg)
-
+<img src="https://user-images.githubusercontent.com/70795841/104844640-c4266280-5914-11eb-83f7-f0548edadcaf.jpg">
 <h3>앱 예시 이미지2</h3>
 <p>리스트에서 레시피 검색 가능</p>
 ![display2](https://user-images.githubusercontent.com/70795841/104844641-c4bef900-5914-11eb-8fe8-8262b1a97060.jpg)
