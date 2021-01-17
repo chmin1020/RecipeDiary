@@ -1,7 +1,9 @@
 # RecipeDiary
-<strong>실질적인 코드는 RecipeDiary/app/src/main/java/com/FallTurtle/recipediary/ 에 있음</
+
+<strong>실질적인 코드는 RecipeDiary/app/src/main/java/com/FallTurtle/recipediary/ 에 있음</strong>
 <p>안드로이드 연습하면서 만든 최초의 프로젝트! 하지만 파이어베이스에서 사진을 불러오는 작업을 완벽하게 만들지 못했고 키를 잃어버려 업데이트를 하지 못하여 현재 게시취소한 상태..</p>
 <br>
+
 <h3>앱 예시 이미지1</h3>
 <p>사용자가 입력한 레시피들이 이러한 리스트 형태로 저장됨</p>
 <img src="https://user-images.githubusercontent.com/70795841/104844640-c4266280-5914-11eb-83f7-f0548edadcaf.jpg">
