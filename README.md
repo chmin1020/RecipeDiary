@@ -1,5 +1,5 @@
 # RecipeDiary
-
+<strong>실질적인 코드는 RecipeDiary/app/src/main/java/com/FallTurtle/recipediary/ 에 있음</
 <p>안드로이드 연습하면서 만든 최초의 프로젝트! 하지만 파이어베이스에서 사진을 불러오는 작업을 완벽하게 만들지 못했고 키를 잃어버려 업데이트를 하지 못하여 현재 게시취소한 상태..</p>
 <br>
 <h3>앱 예시 이미지1</h3>
